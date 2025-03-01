@@ -6,7 +6,7 @@
 ## ✨ Features  
 - 📱 **Responsive UI** using `responsive_sizer`  
 - 🔠 **Custom Fonts** with `GoogleFonts`  
-- 🎨 **Gradient Slide to Pay** with `slide_to_act`  
+- 🎨 **Gradient Slide to Pay** with `gradient_slide_to_act`  
 - 🎯 **Modern and Clean Design**  
 
 ---
@@ -16,7 +16,7 @@
 |-------------|------------|  
 | [`responsive_sizer`](https://pub.dev/packages/responsive_sizer) | Helps create a responsive UI for all screen sizes |  
 | [`google_fonts`](https://pub.dev/packages/google_fonts) | Provides a variety of Google Fonts for better typography |  
-| [`slide_to_act`](https://pub.dev/packages/slide_to_act) | Adds a smooth slide-to-pay action button |  
+| [`gradient_slide_to_act`](https://pub.dev/packages/gradient_slide_to_act) | Adds a smooth slide-to-pay action button |  
 
 ---
 
